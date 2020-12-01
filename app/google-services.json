@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890241550289",
+    "firebase_url": "https://fir-video-333f1.firebaseio.com",
+    "project_id": "fir-video-333f1",
+    "storage_bucket": "fir-video-333f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890241550289:android:936d418399f357d9b182f0",
+        "android_client_info": {
+          "package_name": "com.emrannik.androidnik.emrannik.firebasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890241550289-egp92uo6o976gqb2f9k7mff0ge6qfs5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emrannik.androidnik.emrannik.firebasevideo",
+            "certificate_hash": "7668a5f2b44920503533b34d771ffd0d0e8a3324"
+          }
+        },
+        {
+          "client_id": "890241550289-qp1akqk08uuonl44ijbqffoqams28iua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-ivr70YBUYDY3EfUKvmwIeG-Jt-Odf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890241550289-qp1akqk08uuonl44ijbqffoqams28iua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
